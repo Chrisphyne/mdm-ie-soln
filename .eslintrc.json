@@ -1,0 +1,6 @@
+{
+  "extends": ["jhipster-react"],
+  "parserOptions": {
+    "project": "./tsconfig.e2e.json"
+  }
+}
